@@ -64,5 +64,5 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/Matheus-Natan)!
+Feito com ❤️ por [Matheus](https://github.com/Matheus-Natan)!
 
