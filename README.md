@@ -15,7 +15,7 @@ Este jogo foi desenvolvido utilizando HTML, CSS e JavaScript. Ele desafia o usu�
 
 ## 🎮 Como Jogar
 
-1. Escolha um número entre 1 e 10 e insira no campo de entrada.
+1. Escolha um número entre 1 e 100 e insira no campo de entrada.
 2. Clique no botão "Chutar".
 3. Se errar, o jogo fornecerá uma dica dizendo se o número secreto é maior ou menor.
 4. Continue tentando até acertar!
